@@ -49,6 +49,7 @@
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+        <button type="button" class="btn btn-light btn-sm">LightMode</button>
       </div>
     </div>
   </section><!-- End Top Bar-->
@@ -71,8 +72,7 @@
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><button type="button" class="btn btn-light">Light</button></li>
-          
+          <li><a class="nav-link scrollto bg-info" id="admin" href="#admin">Login Admin</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -422,7 +422,7 @@
           <h2>Our Team</h2>
         </div>
         <div class="row">
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg col-md-6">
             <div class="member">
               <div class="pic"><img src="assets/img/team-1.jpg" alt=""></div>
               <div class="details">
@@ -438,7 +438,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg col-md-6">
             <div class="member">
               <div class="pic"><img src="assets/img/team-2.jpg" alt=""></div>
               <div class="details">
@@ -454,28 +454,12 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg col-md-6">
             <div class="member">
               <div class="pic"><img src="assets/img/team-3.jpg" alt=""></div>
               <div class="details">
                 <h4>William Anderson</h4>
                 <span>CTO</span>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member">
-              <div class="pic"><img src="assets/img/team-4.jpg" alt=""></div>
-              <div class="details">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -525,10 +509,6 @@
           </div>
 
         </div>
-      </div>
-
-      <div class="container mb-4">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
 
       <div class="container">

@@ -182,7 +182,12 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 
-
+#admin {
+  margin-left: 30px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  color: white;
+}
 
 .navbar li {
   position: relative;
