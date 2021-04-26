@@ -71,7 +71,7 @@
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><button type="button" class="btn btn-light ms-5">Light</button></li>
+          <li><button type="button" class="btn btn-light">Light</button></li>
           
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
