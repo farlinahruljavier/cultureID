@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>StayCulture</title>
+  <title>CultureID</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -49,6 +49,7 @@
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/ummcampus/" class="instagram"><i class="bi bi-instagram"></i></a>
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+        <button type="button" class="btn btn-light btn-sm">LightMode</button>
       </div>
     </div>
   </section><!-- End Top Bar-->
@@ -71,12 +72,11 @@
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><button type="button" class="btn btn-light ms-5">Light</button></li>
-          
+          <li><a class="nav-link scrollto bg-info" id="admin" href="#admin">Login Admin</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-        
       </nav><!-- .navbar -->
+
     </div>
   </header><!-- End Header -->
 
@@ -84,11 +84,7 @@
   <section id="hero">
 
     <div class="hero-content" data-aos="fade-up">
-<<<<<<< Updated upstream
-      <h2>Explore <span>Your True</span><br>Style!</h2>
-=======
     <h2>Explore <span>Your True</span><br>Style!</h2>
->>>>>>> Stashed changes
       <div>
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
         <a href="#portfolio" class="btn-projects scrollto">Our Product</a>
@@ -137,7 +133,8 @@
     <section id="services">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Company Values</h2>
+          <h2>Services</h2>
+          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
 
         <div class="row gy-4">
@@ -412,24 +409,6 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-<<<<<<< Updated upstream
-    <!-- ======= Call To Action Section ======= -->
-    <section id="call-to-action">
-      <div class="container" data-aos="zoom-out">
-        <div class="row">
-          <div class="col-lg-9 text-center text-lg-start">
-            <h3 class="cta-title">Call To Action</h3>
-            <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#contact">Call To Action</a>
-          </div>
-        </div>
-      </div>
-    </section><!-- End Call To Action Section -->
-
-=======
->>>>>>> Stashed changes
     <!-- ======= Team Section ======= -->
     <section id="team">
       <div class="container" data-aos="fade-up">
@@ -437,7 +416,7 @@
           <h2>Our Team</h2>
         </div>
         <div class="row">
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg col-md-6">
             <div class="member">
               <div class="pic"><img src="assets/img/team/Farli.jpg" alt=""></div>
               <div class="details">
@@ -453,7 +432,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg col-md-6">
             <div class="member">
               <div class="pic"><img src="assets/img/team/putrijuli.png" alt=""></div>
               <div class="details">
@@ -469,25 +448,22 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg col-md-6">
             <div class="member">
-              <div class="pic"><img src="assets/img/team/lino.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team-3.jpg" alt=""></div>
               <div class="details">
                 <h4>Brilino Pradika Putra</h4>
                 <span>Anggota</span>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-<<<<<<< Updated upstream
-                  <a href="https://www.instagram.com/lino_dika/"><i class="bi bi-instagram"></i></a>
-=======
                   <a href="assets/img/team/lino.jpg"><i class="bi bi-instagram"></i></a>
->>>>>>> Stashed changes
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
           </div>
+        </div>
 
       </div>
     </section><!-- End Team Section -->
@@ -526,10 +502,6 @@
           </div>
 
         </div>
-      </div>
-
-      <div class="container mb-4">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
 
       <div class="container">
