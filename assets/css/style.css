@@ -8,9 +8,16 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+:root{
+  --primary-color: #ffffff;
+  --secondary-color: #000000;
+  /* --primary-color: #000000;
+  --secondary-color: #ffffff; */
+}
+
 body {
-  background: #fff;
-  color: #444;
+  background: var(--primary-color);
+  color: var(--secondary-color);
   font-family: "Open Sans", sans-serif;
 }
 
@@ -56,13 +63,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: var(--primary-color);
   line-height: 0;
 }
 
 .back-to-top:hover {
   background: #71dfbe;
-  color: #fff;
+  color: var(--primary-color);
 }
 
 .back-to-top.active {
@@ -74,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #fff;
+  background: var(--primary-color);
   border-bottom: 1px solid #eee;
   font-size: 14px;
   padding: 0;
@@ -88,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #topbar .contact-info i a, #topbar .contact-info i span {
   padding-left: 5px;
-  color: #444;
+  color: var(--secondary-color);
 }
 
 #topbar .contact-info i a {
@@ -101,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a {
-  color: #555;
+  color: var(--secondary-color);
   padding: 0 15px;
   display: inline-block;
   line-height: 1px;
@@ -123,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 80px;
   transition: all 0.5s;
   z-index: 997;
-  background: #fff;
+  background: var(--primary-color);
   box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
 }
 
@@ -182,7 +189,16 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 
+<<<<<<< Updated upstream
 
+=======
+#admin {
+  margin-left: 30px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  color: var(--primary-color);
+}
+>>>>>>> Stashed changes
 
 .navbar li {
   position: relative;
@@ -196,7 +212,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #444;
+  color: var(--secondary-color);
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -221,7 +237,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: var(--primary-color);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -284,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle.bi-x {
-  color: #fff;
+  color: var(--primary-color);
 }
 
 @media (max-width: 991px) {
@@ -322,7 +338,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: var(--primary-color);
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -349,7 +365,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #fff;
+  background: var(--primary-color);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -427,7 +443,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 2px;
   transition: 0.5s;
   margin: 10px;
-  color: #fff;
+  color: var(--primary-color);
 }
 
 #hero .hero-content .btn-get-started {
@@ -519,7 +535,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #fafafa;
+  background-color: var(--primary-color);
   min-height: 40px;
 }
 
@@ -600,7 +616,7 @@ section {
 }
 
 #about .content h3 {
-  color: #555;
+  color: var(--secondary-color);
   font-weight: 300;
   font-size: 18px;
   line-height: 26px;
@@ -639,7 +655,7 @@ section {
 #services .box {
   padding: 40px;
   box-shadow: 10px 10px 15px rgba(73, 78, 92, 0.1);
-  background: #fff;
+  background: var(--primary-color);
   transition: 0.4s;
   height: 100%;
 }
@@ -656,7 +672,7 @@ section {
 }
 
 #services .box .icon i {
-  color: #444;
+  color: var(--secondary-color);
   font-size: 64px;
   transition: 0.5s;
   line-height: 0;
@@ -679,7 +695,7 @@ section {
 }
 
 #services .box h4 a {
-  color: #444;
+  color: var(--secondary-color);
 }
 
 #services .box p {
@@ -729,7 +745,7 @@ section {
 #clients .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: var(--primary-color);
   opacity: 1;
   border: 1px solid #50d8af;
 }
@@ -741,7 +757,7 @@ section {
 /* Our Portfolio Section
 --------------------------------*/
 #portfolio {
-  background: #fff;
+  background: var(--primary-color);
   padding: 30px 0;
 }
 
@@ -760,15 +776,15 @@ section {
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
-  color: #444;
+  color: var(--secondary-color);
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
-  background: #f7f7f7;
+  background: var(--primary-color);
   border-radius: 4px;
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #fff;
+  color: var(--primary-color);
   background: #50d8af;
 }
 
@@ -801,12 +817,12 @@ section {
 
 #portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  color: #fff;
+  color: var(--primary-color);
   font-weight: 600;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
-  color: #fff;
+  color: var(--primary-color);
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -821,7 +837,7 @@ section {
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #fff;
+  color: var(--primary-color);
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -856,7 +872,7 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: var(--primary-color);
   opacity: 1;
   border: 1px solid #50d8af;
 }
@@ -971,7 +987,7 @@ section {
 #testimonials .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: var(--primary-color);
   opacity: 1;
   border: 1px solid #50d8af;
 }
@@ -989,13 +1005,13 @@ section {
 }
 
 #call-to-action .cta-title {
-  color: #fff;
+  color: var(--primary-color);
   font-size: 28px;
   font-weight: 700;
 }
 
 #call-to-action .cta-text {
-  color: #fff;
+  color: var(--primary-color);
 }
 
 @media (min-width: 769px) {
@@ -1028,7 +1044,7 @@ section {
 /* Our Team Section
 --------------------------------*/
 #team {
-  background: #fff;
+  background: var(--primary-color);
   padding: 30px 0 0 0;
 }
 
@@ -1048,7 +1064,7 @@ section {
 
 #team .member .details {
   background: #50d8af;
-  color: #fff;
+  color: var(--primary-color);
   padding: 15px;
   border-radius: 0 0 3px 3px;
 }
@@ -1070,7 +1086,7 @@ section {
 }
 
 #team .member .social a {
-  color: #fff;
+  color: var(--primary-color);
 }
 
 #team .member .social i {
@@ -1098,7 +1114,7 @@ section {
 
 #contact .contact-info address, #contact .contact-info p {
   margin-bottom: 0;
-  color: #000;
+  color: var(--secondary-color);
 }
 
 #contact .contact-info h3 {
@@ -1110,7 +1126,7 @@ section {
 }
 
 #contact .contact-info a {
-  color: #000;
+  color: var(--secondary-color);
 }
 
 #contact .contact-info a:hover {
@@ -1155,7 +1171,7 @@ section {
 
 #contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: var(--primary-color);
   background: #ed3c0d;
   text-align: left;
   padding: 15px;
@@ -1168,7 +1184,7 @@ section {
 
 #contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: var(--primary-color);
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1177,7 +1193,7 @@ section {
 
 #contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: var(--primary-color);
   text-align: center;
   padding: 15px;
 }
@@ -1211,7 +1227,7 @@ section {
   border: 0;
   border-radius: 3px;
   padding: 10px 30px;
-  color: #fff;
+  color: var(--primary-color);
   transition: 0.4s;
   cursor: pointer;
 }
@@ -1242,7 +1258,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f2f5f8;
+  background: var(--primary-color);
   padding: 0 0 30px 0;
   font-size: 14px;
 }
@@ -1255,7 +1271,7 @@ section {
 #footer .credits {
   text-align: center;
   font-size: 13px;
-  color: #555;
+  color: var(--secondary-color);
 }
 
 #footer .credits a {

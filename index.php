@@ -41,13 +41,13 @@
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">contact@example.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:infokom@umm.ac.id">infokom@umm.ac.id</a></i>
+        <i class="bi bi-phone d-flex align-items-center ms-4"><span>(0341)464318</span></i>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.instagram.com/ummcampus/" class="instagram"><i class="bi bi-instagram"></i></a>
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
       </div>
     </div>
@@ -67,7 +67,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="#services">Company Values</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -75,8 +75,8 @@
           
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
+        
       </nav><!-- .navbar -->
-
     </div>
   </header><!-- End Header -->
 
@@ -84,16 +84,16 @@
   <section id="hero">
 
     <div class="hero-content" data-aos="fade-up">
-      <h2>Making <span>your ideas</span><br>happen!</h2>
+      <h2>Explore <span>Your True</span><br>Style!</h2>
       <div>
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
-        <a href="#portfolio" class="btn-projects scrollto">Our Projects</a>
+        <a href="#portfolio" class="btn-projects scrollto">Our Product</a>
       </div>
     </div>
 
     <div class="hero-slider swiper-container">
       <div class="swiper-wrapper">
-        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/1.jpg');"></div>
+        <div class="swiper-slide" style="background-image: url('https://erigo.sgp1.digitaloceanspaces.com/wp-content/uploads/2021/02/SLIDER1_JAPANSERIES-1.png');"></div>
         <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/2.jpg');"></div>
         <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/3.jpg');"></div>
         <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/4.jpg');"></div>
@@ -114,7 +114,7 @@
           </div>
 
           <div class="col-lg-6 content">
-            <h2>Lorem ipsum dolor sit amet, consectetur adipiscing</h2>
+            <h2>About CultureID</h2>
             <h3>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
 
             <ul>
@@ -133,8 +133,7 @@
     <section id="services">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Services</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <h2>Company Values</h2>
         </div>
 
         <div class="row gy-4">
@@ -142,32 +141,32 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident etiro rabeta lingo.</p>
+              <h4 class="title"><a href="">Results</a></h4>
+              <p class="description">Kami bergerak cepat <b>(Run)</b> untuk memberikan kinerja terbaik <b>(Performance)</b> dan hasil yang optimal <b>(Result)</b> dengan tetap mengedepankan Kepuasan Pelanggan</p>
             </div>
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <div class="box">
               <div class="icon"><i class="bi bi-card-checklist"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata nodera clas.</p>
+              <h4 class="title"><a href="">Organization</a></h4>
+              <p class="description">Kami memiliki nilai <b>(Values)</b> dan budaya <b>(Culture)</b> untuk bekerja dengan hati <b>(Passion)</b> dan mempunyai semangat tinggi untuk senantiasa memberikan yang terbaik <b>(Spirit of Excellence)</b></p>
             </div>
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
               <div class="icon"><i class="bi bi-bar-chart"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p>
+              <h4 class="title"><a href="">Teamwork</a></h4>
+              <p class="description">Kinerja dan pencapaian kami sebagai salah satu keluarga besar merupakan hasil kerja sama <b>(Cooperation)</b> dan koordinasi <b>(Coordination)</b> yang unggul dari semua bagian perusahaan</p>
             </div>
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
             <div class="box">
               <div class="icon"><i class="bi bi-binoculars"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
+              <h4 class="title"><a href="">Implementation</a></h4>
+              <p class="description">Kami memastikan setiap strategi dapat terlaksana dengan baik <b>(Follow through to completion)</b> melalui eksekusi yang sempurna <b>(Execution)</b></p>
             </div>
           </div>
 
@@ -205,110 +204,119 @@
     <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Our Portfolio</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <h2>Our Product</h2>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-coach">Coach</li>
+              <li data-filter=".filter-shirt">T-Shirt</li>
+              <li data-filter=".filter-sweater">Sweater</li>
             </ul>
           </div>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-coach">
+            <img src="https://cf.shopee.co.id/file/78e89b394d684937351c8155881b2f82" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Erigo Coach Jacket Idaina Kaeru </h4>
+              <a href="assets/img/portfolio/Erigo Coach Jacket Idaina Kaeru Black.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Erigo Coach Jacket Idaina Kaeru Black"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/Erigo-Coach-Jacket-Idaina-Kaeru-Black-i.30203584.8513919836" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp.450.000 </h6>
+              <p>Coach</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-coach">
+            <img src="assets/img/portfolio/13.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Deus Ex Machina - Canggu Coach</h4>
+              <a href="assets/img/portfolio/14.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Deus Ex Machina - Canggu Coach"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/Deus-Ex-Machina-Canggu-Coach-i.251973526.4931815163" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 1.150.000 </h6>
+              <p>Coach</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-coach">
+            <img src="assets/img/portfolio/15.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Roughneck B535 Social Hazards Coach</h4>
+              <a href="assets/img/portfolio/16.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Roughneck B535 Social Hazards Coach Maroon"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/Roughneck-B535-Social-Hazards-Coach-Maroon-i.32427818.2722676467" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 195.000 </h6>
+              <p>Coach</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-shirt">
+            <img src="assets/img/portfolio/3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>LIVEHAF - No Work Tee </h4>
+              <a href="assets/img/portfolio/6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="LIVEHAF - No Work Tee Black"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/LIVEHAF-Nowork-Tee-Black-i.82611378.3917649552" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 155.000 </h6>
+              <p>T-Shirt</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-shirt">
+            <img src="assets/img/portfolio/1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>COSMONAUTS X MEDY POTATO ATTACK</h4>
+              <a href="assets/img/portfolio/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="COSMONAUTS X MEDY POTATO ATTACK"><i class="bx bx-plus"></i></a>
+              <a href="https://wearecosmonauts.com/products/cosmonauts-x-medy-potato-attack-t-shirt-black?variant=36990114922654" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 869.820 </h6>
+              <p>T-Shirt</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-shirt">
+            <img src="assets/img/portfolio/5.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Inspired27 Tshirt - Alexeyn</h4>
+             
+              <a href="assets/img/portfolio/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Inspired27 Tshirt - Alexeyn"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/Inspired27-Tshirt-Alexeyn-i.101487673.5647208771" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 175.000 </h6>
+              <p>T-Shirt</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sweater">
+            <img src="assets/img/portfolio/7.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>OG College Black Gold Crewneck</h4>
+              <a href="assets/img/portfolio/8.mp4" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="OG College Black Gold Crewneck - Sweater Bordir Pria Guteninc"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/OG-College-Black-Gold-Crewneck-Sweater-Bordir-Pria-Guteninc-i.17443755.7361575231" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 420.000 </h6>
+              <p>Sweater</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sweater">
+            <img src="assets/img/portfolio/9.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Russ Sweater Crewneck Autocracy</h4>
+              <a href="assets/img/portfolio/10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Russ Sweater Crewneck Autocracy Cream"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/Russ-Sweater-Crewneck-Autocracy-Cream-i.106751288.7058398192" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 400.000 </h6>
+              <p>Sweater</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sweater">
+            <img src="assets/img/portfolio/11.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>HOOLIGANS Sweater Crewneck Oculus</h4>
+              <a href="assets/img/portfolio/12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="HOOLIGANS Sweater Crewneck Oculus Black"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/HOOLIGANS-Sweater-Crewneck-Oculus-Black-i.28717111.4376047130" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 340.000 </h6>
+              <p>Sweater</p>
             </div>
           </div>
 
@@ -409,7 +417,7 @@
             <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle" href="#contact">Call To Action</a>
           </div>
         </div>
       </div>
@@ -424,14 +432,14 @@
         <div class="row">
           <div class="col-lg-3 col-md-6">
             <div class="member">
-              <div class="pic"><img src="assets/img/team-1.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team/farli.jpg" alt=""></div>
               <div class="details">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Farli Nahrul Javier</h4>
+                <span>Leader</span>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/farlinahrul/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -440,14 +448,14 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member">
-              <div class="pic"><img src="assets/img/team-2.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team/putrijuli.png" alt=""></div>
               <div class="details">
-                <h4>Sarah Jhinson</h4>
-                <span>Product Manager</span>
+                <h4>Putri Juli Amelia</h4>
+                <span>Anggota</span>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/putrijulii/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -456,14 +464,14 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member">
-              <div class="pic"><img src="assets/img/team-3.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team/lino.jpg" alt=""></div>
               <div class="details">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Brilino Pradika Putra</h4>
+                <span>Anggota</span>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/lino_dika/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -495,7 +503,6 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>Contact Us</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
 
         <div class="row contact-info">
@@ -504,7 +511,7 @@
             <div class="contact-address">
               <i class="bi bi-geo-alt"></i>
               <h3>Address</h3>
-              <address>A108 Adam Street, NY 535022, USA</address>
+              <p><a href="https://www.google.com/maps/place/Universitas+Muhammadiyah+Malang,+Kampus+III/@-7.9215169,112.5973649,15z/data=!4m2!3m1!1s0x0:0xb39e4847109109e4?sa=X&ved=2ahUKEwivn9mQjZ7wAhUnILcAHYEYCy0Q_BIwHHoECEMQBQ">Jalan Raya Tlogomas No. 246 Tlogomas, Babatan, Tegalgondo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144</a></p>
             </div>
           </div>
 
@@ -512,7 +519,7 @@
             <div class="contact-phone">
               <i class="bi bi-phone"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+              <p><a href="tel:0341464318">(0341) 464318</a></p>
             </div>
           </div>
 
@@ -520,7 +527,7 @@
             <div class="contact-email">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">info@example.com</a></p>
+              <p><a href="mailto:infokom@umm.ac.id">infokom@umm.ac.id</a></p>
             </div>
           </div>
 
@@ -568,7 +575,7 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Reveal</strong>. All Rights Reserved
+        &copy; 2021 <strong>CultureID</strong>.All Right Reserved
       </div>
     </div>
   </footer><!-- End Footer -->
