@@ -180,15 +180,51 @@
 
         <div class="clients-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102010/untitled-1_162.png?itok=A48JcZtx" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="https://mark.trademarkia.com/logo-images/superior-metal-products/roughneck-78699735.jpg" alt=""></div>
-            <div class="swiper-slide"><img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-9/93385560_101394511546701_6783973910015639552_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEw8qTpMQ1q9wZXifmlJNitNkYyeJ6RsGs2RjJ4npGwa3EQCFWH2rS2_SBQA6dh5XgRceQ-Cb7UGC8svRiUXbdM&_nc_ohc=tXS_92n_xncAX8ra9lU&_nc_ht=scontent.fsub8-1.fna&oh=a635dae4597e0b0966eed8cfbd6dc2d4&oe=60AB2A19" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-0/s526x395/46956265_2001218633300581_4629496345860767744_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGenk1RVPBVB72UVdNosfF0AmYD1tdInekCZgPW10id6adQWCatV00IXWNv6IDR5aAZiYjmIoit8wJ4e7xeWGHy&_nc_ohc=nR8xkhBQJLEAX_24Ok4&_nc_ht=scontent.fsub8-1.fna&tp=7&oh=d0a929af77ecaaa3e040f3345969ad99&oe=60AD9ECE" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-9/43417515_984706771733375_4843377582533509120_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEnyNu8MRbN1OH0TWHJIPtTkSkS8ufTu22RKRLy59O7bQqForcoge3yCJcRfcpyy_T2Y0q9ULNM_1MLhsuFPoJV&_nc_ohc=EwQot3wHDTYAX_1VPWc&_nc_ht=scontent.fsub8-1.fna&oh=da4b69971d92d417407da8e24f8ad847&oe=60AC8FFA" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="https://lh3.googleusercontent.com/proxy/Stnz8ZSSewz0zNdhKAt0HiqU5kkOawOxRblxrSaeJnCQmPrhHYqE2MmCCgvY8MO17y-E9LXkte6YFDZlkNhYT3ly4EOUeMBn3mIiBe6ni0y6zwfQMgfvVn_vRuDGiV4aFNhpJLVtwjU9tsyX6w_I0obsHBLT47zqrw" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="https://pbs.twimg.com/profile_images/789374301082267648/NNFNcUwc_400x400.jpg" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="https://cdn.snapppt.com/graph-api/1547405572.jpg" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="https://ecs7-p.tokopedia.net/img/cache/215-square/shops-1/2018/12/11/4621419/4621419_fb1a9d11-3fcf-460c-a668-cebcb1c932de.jpg" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"> 
+              <a href="https://www.instagram.com/epidemicstore/?hl=en">
+                <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102010/untitled-1_162.png?itok=A48JcZtx" class="img-fluid" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/roughneck1991/?hl=en">
+                <img src="https://mark.trademarkia.com/logo-images/superior-metal-products/roughneck-78699735.jpg" alt="">
+                </a>  
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/erigostore/?hl=en">
+                <img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-0/s526x395/46956265_2001218633300581_4629496345860767744_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGenk1RVPBVB72UVdNosfF0AmYD1tdInekCZgPW10id6adQWCatV00IXWNv6IDR5aAZiYjmIoit8wJ4e7xeWGHy&_nc_ohc=nR8xkhBQJLEAX_24Ok4&_nc_ht=scontent.fsub8-1.fna&tp=7&oh=d0a929af77ecaaa3e040f3345969ad99&oe=60AD9ECE" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/cosmonautspacewear/?hl=en"> 
+                <img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-9/93385560_101394511546701_6783973910015639552_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEw8qTpMQ1q9wZXifmlJNitNkYyeJ6RsGs2RjJ4npGwa3EQCFWH2rS2_SBQA6dh5XgRceQ-Cb7UGC8svRiUXbdM&_nc_ohc=tXS_92n_xncAX8ra9lU&_nc_ht=scontent.fsub8-1.fna&oh=a635dae4597e0b0966eed8cfbd6dc2d4&oe=60AB2A19" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/awesamstore/?hl=en">
+                <img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-9/43417515_984706771733375_4843377582533509120_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEnyNu8MRbN1OH0TWHJIPtTkSkS8ufTu22RKRLy59O7bQqForcoge3yCJcRfcpyy_T2Y0q9ULNM_1MLhsuFPoJV&_nc_ohc=EwQot3wHDTYAX_1VPWc&_nc_ht=scontent.fsub8-1.fna&oh=da4b69971d92d417407da8e24f8ad847&oe=60AC8FFA" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/inspired27/?hl=en">
+                <img src="https://lh3.googleusercontent.com/proxy/-fMxr3sRYf4qBJdx3FpHkawey6Rq2gwfEIp-cmIJdIgLKe6_CopMoKcTcjyz9VC0rBCnD4s6AlH5zhGikS1JaYPqc6HqBvg2PNQ_eg-Xe7K_bJciwzsrQyaFpNscp9nBADB-H9U3eh_Idy7sr3xStrHFcEDjuLeC9Q" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/thanksinsomnia/?hl=en">
+                <img src="https://pbs.twimg.com/profile_images/789374301082267648/NNFNcUwc_400x400.jpg" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/livehaf/?hl=en ">
+                <img src="https://cdn.snapppt.com/graph-api/1547405572.jpg" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/kevas_store/?hl=en">
+                <img src="https://ecs7-p.tokopedia.net/img/cache/215-square/shops-1/2018/12/11/4621419/4621419_fb1a9d11-3fcf-460c-a668-cebcb1c932de.jpg" alt="">
+              </a>
+            </div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
