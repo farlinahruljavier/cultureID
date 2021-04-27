@@ -450,7 +450,7 @@
 
           <div class="col-lg col-md-6">
             <div class="member">
-              <div class="pic"><img src="assets/img/team-3.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team/lino.jpg" alt=""></div>
               <div class="details">
                 <h4>Brilino Pradika Putra</h4>
                 <span>Anggota</span>
