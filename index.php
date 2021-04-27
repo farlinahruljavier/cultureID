@@ -84,7 +84,11 @@
   <section id="hero">
 
     <div class="hero-content" data-aos="fade-up">
+<<<<<<< Updated upstream
       <h2>Explore <span>Your True</span><br>Style!</h2>
+=======
+    <h2>Explore <span>Your True</span><br>Style!</h2>
+>>>>>>> Stashed changes
       <div>
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
         <a href="#portfolio" class="btn-projects scrollto">Our Product</a>
@@ -138,7 +142,7 @@
 
         <div class="row gy-4">
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
               <h4 class="title"><a href="">Results</a></h4>
@@ -408,6 +412,7 @@
       </div>
     </section><!-- End Testimonials Section -->
 
+<<<<<<< Updated upstream
     <!-- ======= Call To Action Section ======= -->
     <section id="call-to-action">
       <div class="container" data-aos="zoom-out">
@@ -423,6 +428,8 @@
       </div>
     </section><!-- End Call To Action Section -->
 
+=======
+>>>>>>> Stashed changes
     <!-- ======= Team Section ======= -->
     <section id="team">
       <div class="container" data-aos="fade-up">
@@ -471,7 +478,11 @@
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
+<<<<<<< Updated upstream
                   <a href="https://www.instagram.com/lino_dika/"><i class="bi bi-instagram"></i></a>
+=======
+                  <a href="assets/img/team/lino.jpg"><i class="bi bi-instagram"></i></a>
+>>>>>>> Stashed changes
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -564,6 +575,7 @@
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>
