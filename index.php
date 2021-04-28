@@ -94,10 +94,10 @@
     <div class="hero-slider swiper-container">
       <div class="swiper-wrapper">
         <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/1.jpg');"></div>
-        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/2.jpg');"></div>
-        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/3.jpg');"></div>
-        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/4.jpg');"></div>
-        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/5.jpg');"></div>
+        <div class="swiper-slide" style="background-image: url('https://serpongupdate.com/wp-content/uploads/2019/10/baju.jpg');"></div>
+        <div class="swiper-slide" style="background-image: url('https://www.justdalal.com/wp-content/uploads/2017/12/madrid-thrift-guide-justdalal-21.jpg');"></div>
+        <div class="swiper-slide" style="background-image: url('https://www.dir.web.id/wp-content/uploads/2017/01/banner-roughneck.jpg');"></div>
+        <div class="swiper-slide" style="background-image: url('https://donbosco.org.au/templates/g5_helium/custom/images/header/op-shopbw.jpg');"></div>
       </div>
     </div>
 
@@ -110,18 +110,12 @@
       <div class="container" data-aos="fade-up">
         <div class="row">
           <div class="col-lg-6 about-img">
-            <img src="assets/img/about-img.jpg" alt="">
+            <img src="assets/img/culturedID.gif" alt="">
           </div>
 
           <div class="col-lg-6 content">
-            <h2>Lorem ipsum dolor sit amet, consectetur adipiscing</h2>
-            <h3>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
-
-            <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
+            <h2>about us</h2>
+            <h3>CultureID dimulai sejak tahun 2003, sebagai bisnis keluarga kecil di Malang. Dua dekade kemudian, cultureID terlahir kembali dengan sentuhan kontemporer yang segar, sambil tetap mempertahankan sejarahnya; perpaduan yang solid antara desain vintage klasik dan pendekatan pop modern. Disini cultureID ingin memberikan kesan “The Perfect cultured ” yaitu dengan memadukan kultur local yang diangkat secara modern yang dapat dikenakan setiap orang mulai dari anak usiaa satu tahun hingga dewasa.</h3>
 
           </div>
         </div>
@@ -180,20 +174,57 @@
     <section id="clients">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Clients</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <h2>Colaborations</h2>
+          <p>brand kami telah banyak melakukan kolaborasi dengan brand-brand ternama di indonesia. itulah yang memebuat brand kami semakin besar, terimakasih kepada mereka semua : </p>
         </div>
 
         <div class="clients-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"> 
+              <a href="https://www.instagram.com/epidemicstore/?hl=en">
+                <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102010/untitled-1_162.png?itok=A48JcZtx" class="img-fluid" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/roughneck1991/?hl=en">
+                <img src="https://mark.trademarkia.com/logo-images/superior-metal-products/roughneck-78699735.jpg" alt="">
+                </a>  
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/erigostore/?hl=en">
+                <img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-0/s526x395/46956265_2001218633300581_4629496345860767744_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGenk1RVPBVB72UVdNosfF0AmYD1tdInekCZgPW10id6adQWCatV00IXWNv6IDR5aAZiYjmIoit8wJ4e7xeWGHy&_nc_ohc=nR8xkhBQJLEAX_24Ok4&_nc_ht=scontent.fsub8-1.fna&tp=7&oh=d0a929af77ecaaa3e040f3345969ad99&oe=60AD9ECE" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/cosmonautspacewear/?hl=en"> 
+                <img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-9/93385560_101394511546701_6783973910015639552_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEw8qTpMQ1q9wZXifmlJNitNkYyeJ6RsGs2RjJ4npGwa3EQCFWH2rS2_SBQA6dh5XgRceQ-Cb7UGC8svRiUXbdM&_nc_ohc=tXS_92n_xncAX8ra9lU&_nc_ht=scontent.fsub8-1.fna&oh=a635dae4597e0b0966eed8cfbd6dc2d4&oe=60AB2A19" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/awesamstore/?hl=en">
+                <img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-9/43417515_984706771733375_4843377582533509120_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEnyNu8MRbN1OH0TWHJIPtTkSkS8ufTu22RKRLy59O7bQqForcoge3yCJcRfcpyy_T2Y0q9ULNM_1MLhsuFPoJV&_nc_ohc=EwQot3wHDTYAX_1VPWc&_nc_ht=scontent.fsub8-1.fna&oh=da4b69971d92d417407da8e24f8ad847&oe=60AC8FFA" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/inspired27/?hl=en">
+                <img src="https://lh3.googleusercontent.com/proxy/-fMxr3sRYf4qBJdx3FpHkawey6Rq2gwfEIp-cmIJdIgLKe6_CopMoKcTcjyz9VC0rBCnD4s6AlH5zhGikS1JaYPqc6HqBvg2PNQ_eg-Xe7K_bJciwzsrQyaFpNscp9nBADB-H9U3eh_Idy7sr3xStrHFcEDjuLeC9Q" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/thanksinsomnia/?hl=en">
+                <img src="https://pbs.twimg.com/profile_images/789374301082267648/NNFNcUwc_400x400.jpg" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/livehaf/?hl=en ">
+                <img src="https://cdn.snapppt.com/graph-api/1547405572.jpg" alt="">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="https://www.instagram.com/kevas_store/?hl=en">
+                <img src="https://ecs7-p.tokopedia.net/img/cache/215-square/shops-1/2018/12/11/4621419/4621419_fb1a9d11-3fcf-460c-a668-cebcb1c932de.jpg" alt="">
+              </a>
+            </div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -332,12 +363,12 @@
               <div class="testimonial-item">
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Produk disini sangat berkualitas, dengan tetap mempertahankan culturenya sebagai sepatu lokal. saya sangat mendukung adanya CulturedID yang mengangkat culture lokal ke dalam sebuah project fashion di Indonesia.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
-                <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="https://assets.beepdo.com/wp-content/uploads/2020/06/03120843/dr.Tirta-instagram-.jpg" class="testimonial-img" alt="">
+                <h3>dr. Tirta</h3>
+                <h4>Doctor &amp; Influencer</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -345,7 +376,7 @@
               <div class="testimonial-item">
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  CulturedID mengangkat sesuatu hal yang baru di kalang brand fashion lain, yang dimana mereka mengenalkan sebuah brand dengan tema klasik. berbeda dengan itu CulturedID menampilkan budaya lokal Indonesia yang kemudian diangkat kedalam sebuah fashion.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
                 <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
@@ -358,11 +389,11 @@
               <div class="testimonial-item">
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Produk yang dibuat menggunakan bahan dengan kualitas terbaik dan juga menjaga kepuasan dari pembeli. itulah yang membuat saya memilih produk dari cultureID.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
                 <img src="assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
+                <h3>Bang Jago</h3>
                 <h4>Store Owner</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -371,12 +402,12 @@
               <div class="testimonial-item">
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  Brand cultureID mempunyai produk yang ramah dikantong mahasiswa tapi tidak mengurangi kualitas dari produk itu, selain itu pengiriman juga cepat sampai cuma 1 jam dari jakarta ke malang.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
                 <img src="assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                <h3>Wisa Wirman</h3>
+                <h4>content creator</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -384,7 +415,7 @@
               <div class="testimonial-item">
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  Desain yang dimiliki produk-produk dari CultureID memliki ciri khas tersendiri dengan mengangkat kultur lokal Indonesia. 
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
                 <img src="assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
