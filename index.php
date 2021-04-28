@@ -49,8 +49,35 @@
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/ummcampus/" class="instagram"><i class="bi bi-instagram"></i></a>
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-        <button type="button" class="btn btn-light btn-sm">LightMode</button>
-      </div>
+        <button onclick="myFunction()" class="btn btn-light btn-sm">LightMode</button>
+        </div>
+        <script>
+        (function() {
+            let onpageLoad = localStorage.getItem("theme") || "";
+            let element = document.body;
+            element.classList.add(onpageLoad);
+            document.getElementById("theme").textContent =
+                localStorage.getItem("theme") || "light";
+        })();
+
+        function myFunction() {
+            let element = document.body;
+            element.classList.toggle("dark-mode");
+            let theme = localStorage.getItem("theme");
+
+            var button = document.querySelector('button')
+
+            if (theme && theme === "dark-mode") {
+              document.documentElement.setAttribute('dark-mode', 'dark');
+                localStorage.setItem("theme", "");
+            } else {
+              document.documentElement.setAttribute('dark-mode', 'light');
+                localStorage.setItem("theme", "dark-mode");
+            }
+
+            document.getElementById("theme").textContent = localStorage.getItem("theme");
+        }
+    </script> 
     </div>
   </section><!-- End Top Bar-->
 
@@ -128,7 +155,6 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>Services</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
 
         <div class="row gy-4">
@@ -174,8 +200,12 @@
     <section id="clients">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
+<<<<<<< Updated upstream
           <h2>Colaborations</h2>
           <p>brand kami telah banyak melakukan kolaborasi dengan brand-brand ternama di indonesia. itulah yang memebuat brand kami semakin besar, terimakasih kepada mereka semua : </p>
+=======
+          <h2>Clients</h2>
+>>>>>>> Stashed changes
         </div>
 
         <div class="clients-slider swiper-container" data-aos="fade-up" data-aos-delay="100">

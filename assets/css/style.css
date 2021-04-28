@@ -11,8 +11,10 @@
 :root{
   --primary-color: #ffffff;
   --secondary-color: #000000;
-  /* --primary-color: #000000;
-  --secondary-color: #ffffff; */
+}
+.dark-mode{
+ --primary-color: #151515;
+  --secondary-color: #ffffff;
 }
 
 body {
