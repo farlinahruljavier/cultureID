@@ -26,13 +26,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-<!-- tes -->
-  <!-- =======================================================
-  * Template Name: Reveal - v4.1.0
-  * Template URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
 </head>
 
 <body>
@@ -49,37 +43,10 @@
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/ummcampus/" class="instagram"><i class="bi bi-instagram"></i></a>
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-        <button onclick="myFunction()" class="btn btn-light btn-sm">Mode</button>
-        </div>
-        <!-- LOGIC DARKMODE -->
-        <script>
-        (function() {
-            let onpageLoad = localStorage.getItem("theme") || "";
-            let element = document.body;
-            element.classList.add(onpageLoad);
-            document.getElementById("theme").textContent =
-                localStorage.getItem("theme") || "light";
-        })();
-
-        function myFunction() {
-            let element = document.body;
-            element.classList.toggle("dark-mode");
-            let theme = localStorage.getItem("theme");
-
-            var button = document.querySelector('button')
-
-            if (theme && theme === "dark-mode") {
-              document.documentElement.setAttribute('dark-mode', 'dark');
-                localStorage.setItem("theme", "");
-            } else {
-              document.documentElement.setAttribute('dark-mode', 'light');
-                localStorage.setItem("theme", "dark-mode");
-            }
-
-            document.getElementById("theme").textContent = localStorage.getItem("theme");
-        }
-    </script> 
-    <!-- END LOGIC DARKMODE -->
+        <button id="dark-mode-toggle" onclick="myFunction()" class="btn btn-sm p-1"></button>
+      </div>
+      <!-- LOGIC DARKMODE -->
+      <!-- END LOGIC DARKMODE -->
     </div>
   </section><!-- End Top Bar-->
 
@@ -101,7 +68,7 @@
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="nav-link scrollto bg-info" id="admin" href="admin/page-login.html">Login Admin</a></li>
+          <li><a class="nav-link scrollto" href="admin/page-login.html">Login Admin</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -113,7 +80,7 @@
   <section id="hero">
 
     <div class="hero-content" data-aos="fade-up">
-    <h2>Explore <span>Your True</span><br>Style!</h2>
+      <h2>Explore <span>Your True</span><br>Style!</h2>
       <div>
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
         <a href="#portfolio" class="btn-projects scrollto">Our Product</a>
@@ -161,7 +128,7 @@
 
         <div class="row gy-4">
 
-        <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
               <h4 class="title"><a href="">Results</a></h4>
@@ -208,7 +175,7 @@
 
         <div class="clients-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"> 
+            <div class="swiper-slide">
               <a href="https://www.instagram.com/epidemicstore/?hl=en">
                 <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102010/untitled-1_162.png?itok=A48JcZtx" class="img-fluid" alt="">
               </a>
@@ -216,7 +183,7 @@
             <div class="swiper-slide">
               <a href="https://www.instagram.com/roughneck1991/?hl=en">
                 <img src="https://mark.trademarkia.com/logo-images/superior-metal-products/roughneck-78699735.jpg" alt="">
-                </a>  
+              </a>
             </div>
             <div class="swiper-slide">
               <a href="https://www.instagram.com/erigostore/?hl=en">
@@ -224,7 +191,7 @@
               </a>
             </div>
             <div class="swiper-slide">
-              <a href="https://www.instagram.com/cosmonautspacewear/?hl=en"> 
+              <a href="https://www.instagram.com/cosmonautspacewear/?hl=en">
                 <img src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.6435-9/93385560_101394511546701_6783973910015639552_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEw8qTpMQ1q9wZXifmlJNitNkYyeJ6RsGs2RjJ4npGwa3EQCFWH2rS2_SBQA6dh5XgRceQ-Cb7UGC8svRiUXbdM&_nc_ohc=tXS_92n_xncAX8ra9lU&_nc_ht=scontent.fsub8-1.fna&oh=a635dae4597e0b0966eed8cfbd6dc2d4&oe=60AB2A19" alt="">
               </a>
             </div>
@@ -339,7 +306,7 @@
             <img src="assets/img/portfolio/5.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Inspired27 Tshirt - Alexeyn</h4>
-             
+
               <a href="assets/img/portfolio/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Inspired27 Tshirt - Alexeyn"><i class="bx bx-plus"></i></a>
               <a href="https://shopee.co.id/Inspired27-Tshirt-Alexeyn-i.101487673.5647208771" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               <h6>Rp. 175.000 </h6>
@@ -452,7 +419,7 @@
               <div class="testimonial-item">
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Desain yang dimiliki produk-produk dari CultureID memliki ciri khas tersendiri dengan mengangkat kultur lokal Indonesia. 
+                  Desain yang dimiliki produk-produk dari CultureID memliki ciri khas tersendiri dengan mengangkat kultur lokal Indonesia.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
                 <img src="assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
@@ -609,6 +576,7 @@
 
 
   <!-- Vendor JS Files -->
+  
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
@@ -618,6 +586,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/darkmode.js"></script>
 
 </body>
 
