@@ -120,7 +120,7 @@
     <section id="services">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Services</h2>
+          <h2>Company Values</h2>
         </div>
 
         <div class="row gy-4">
@@ -244,13 +244,35 @@
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-coach">
-            <img src="https://cf.shopee.co.id/file/78e89b394d684937351c8155881b2f82" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-shirt">
+            <img src="assets/img/portfolio/1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Erigo Coach Jacket Idaina Kaeru </h4>
-              <a href="assets/img/portfolio/Erigo Coach Jacket Idaina Kaeru Black.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Erigo Coach Jacket Idaina Kaeru Black"><i class="bx bx-plus"></i></a>
-              <a href="https://shopee.co.id/Erigo-Coach-Jacket-Idaina-Kaeru-Black-i.30203584.8513919836" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              <h6>Rp.450.000 </h6>
+              <h4>COSMONAUTS X MEDY POTATO ATTACK</h4>
+              <a href="assets/img/portfolio/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="COSMONAUTS X MEDY POTATO ATTACK"><i class="bx bx-plus"></i></a>
+              <a href="https://wearecosmonauts.com/products/cosmonauts-x-medy-potato-attack-t-shirt-black?variant=36990114922654" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 869.820 </h6>
+              <p>T-Shirt</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sweater">
+            <img src="assets/img/portfolio/11.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>HOOLIGANS Sweater Crewneck Oculus</h4>
+              <a href="assets/img/portfolio/12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="HOOLIGANS Sweater Crewneck Oculus Black"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/HOOLIGANS-Sweater-Crewneck-Oculus-Black-i.28717111.4376047130" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 340.000 </h6>
+              <p>Sweater</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-coach">
+            <img src="assets/img/portfolio/15.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Roughneck B535 Social Hazards Coach</h4>
+              <a href="assets/img/portfolio/16.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Roughneck B535 Social Hazards Coach Maroon"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/Roughneck-B535-Social-Hazards-Coach-Maroon-i.32427818.2722676467" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 195.000 </h6>
               <p>Coach</p>
             </div>
           </div>
@@ -266,17 +288,6 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-coach">
-            <img src="assets/img/portfolio/15.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Roughneck B535 Social Hazards Coach</h4>
-              <a href="assets/img/portfolio/16.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Roughneck B535 Social Hazards Coach Maroon"><i class="bx bx-plus"></i></a>
-              <a href="https://shopee.co.id/Roughneck-B535-Social-Hazards-Coach-Maroon-i.32427818.2722676467" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              <h6>Rp. 195.000 </h6>
-              <p>Coach</p>
-            </div>
-          </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-shirt">
             <img src="assets/img/portfolio/3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
@@ -288,14 +299,14 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-shirt">
-            <img src="assets/img/portfolio/1.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sweater">
+            <img src="assets/img/portfolio/9.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>COSMONAUTS X MEDY POTATO ATTACK</h4>
-              <a href="assets/img/portfolio/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="COSMONAUTS X MEDY POTATO ATTACK"><i class="bx bx-plus"></i></a>
-              <a href="https://wearecosmonauts.com/products/cosmonauts-x-medy-potato-attack-t-shirt-black?variant=36990114922654" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              <h6>Rp. 869.820 </h6>
-              <p>T-Shirt</p>
+              <h4>Russ Sweater Crewneck Autocracy</h4>
+              <a href="assets/img/portfolio/10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Russ Sweater Crewneck Autocracy Cream"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/Russ-Sweater-Crewneck-Autocracy-Cream-i.106751288.7058398192" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp. 400.000 </h6>
+              <p>Sweater</p>
             </div>
           </div>
 
@@ -311,6 +322,17 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-coach">
+            <img src="https://cf.shopee.co.id/file/78e89b394d684937351c8155881b2f82" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Erigo Coach Jacket Idaina Kaeru </h4>
+              <a href="assets/img/portfolio/Erigo Coach Jacket Idaina Kaeru Black.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Erigo Coach Jacket Idaina Kaeru Black"><i class="bx bx-plus"></i></a>
+              <a href="https://shopee.co.id/Erigo-Coach-Jacket-Idaina-Kaeru-Black-i.30203584.8513919836" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h6>Rp.450.000 </h6>
+              <p>Coach</p>
+            </div>
+          </div>
+
           <div class="col-lg-4 col-md-6 portfolio-item filter-sweater">
             <img src="assets/img/portfolio/7.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
@@ -318,28 +340,6 @@
               <a href="assets/img/portfolio/8.mp4" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="OG College Black Gold Crewneck - Sweater Bordir Pria Guteninc"><i class="bx bx-plus"></i></a>
               <a href="https://shopee.co.id/OG-College-Black-Gold-Crewneck-Sweater-Bordir-Pria-Guteninc-i.17443755.7361575231" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               <h6>Rp. 420.000 </h6>
-              <p>Sweater</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-sweater">
-            <img src="assets/img/portfolio/9.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Russ Sweater Crewneck Autocracy</h4>
-              <a href="assets/img/portfolio/10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Russ Sweater Crewneck Autocracy Cream"><i class="bx bx-plus"></i></a>
-              <a href="https://shopee.co.id/Russ-Sweater-Crewneck-Autocracy-Cream-i.106751288.7058398192" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              <h6>Rp. 400.000 </h6>
-              <p>Sweater</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-sweater">
-            <img src="assets/img/portfolio/11.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>HOOLIGANS Sweater Crewneck Oculus</h4>
-              <a href="assets/img/portfolio/12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="HOOLIGANS Sweater Crewneck Oculus Black"><i class="bx bx-plus"></i></a>
-              <a href="https://shopee.co.id/HOOLIGANS-Sweater-Crewneck-Oculus-Black-i.28717111.4376047130" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              <h6>Rp. 340.000 </h6>
               <p>Sweater</p>
             </div>
           </div>
@@ -573,7 +573,7 @@
 
 
   <!-- Vendor JS Files -->
-  
+
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
