@@ -101,7 +101,7 @@
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="nav-link scrollto bg-info" id="admin" href="#admin">Login Admin</a></li>
+          <li><a class="nav-link scrollto bg-info" id="admin" href="admin/page-login.html">Login Admin</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
