@@ -49,7 +49,7 @@
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/ummcampus/" class="instagram"><i class="bi bi-instagram"></i></a>
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-        <button onclick="myFunction()" class="btn btn-light btn-sm">LightMode</button>
+        <button onclick="myFunction()" class="btn btn-light btn-sm">Mode</button>
         </div>
         <!-- LOGIC DARKMODE -->
         <script>
@@ -143,8 +143,8 @@
           </div>
 
           <div class="col-lg-6 content">
-            <h2>about us</h2>
-            <h3>CultureID dimulai sejak tahun 2003, sebagai bisnis keluarga kecil di Malang. Dua dekade kemudian, cultureID terlahir kembali dengan sentuhan kontemporer yang segar, sambil tetap mempertahankan sejarahnya; perpaduan yang solid antara desain vintage klasik dan pendekatan pop modern. Disini cultureID ingin memberikan kesan “The Perfect cultured ” yaitu dengan memadukan kultur local yang diangkat secara modern yang dapat dikenakan setiap orang mulai dari anak usiaa satu tahun hingga dewasa.</h3>
+            <h2>About CultureID</h2>
+            <h3>CultureID dimulai sejak tahun 1998, sebagai bisnis keluarga kecil di Malang. Dua dekade kemudian, cultureID terlahir kembali dengan sentuhan kontemporer yang segar, sambil tetap mempertahankan sejarahnya; perpaduan yang solid antara desain vintage klasik dan pendekatan pop modern. Disini cultureID ingin memberikan kesan “The Perfect cultured ” yaitu dengan memadukan kultur local yang diangkat secara modern yang dapat dikenakan setiap orang mulai dari anak usiaa satu tahun hingga dewasa.</h3>
 
           </div>
         </div>
