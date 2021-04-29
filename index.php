@@ -36,13 +36,13 @@
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:infokom@umm.ac.id">infokom@umm.ac.id</a></i>
         <i class="bi bi-phone d-flex align-items-center ms-4"><span>(0341)464318</span></i>
+        <button id="dark-mode-toggle" onclick="myFunction()" class="btn btn-sm p-1 m-3"></button>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/ummcampus/" class="instagram"><i class="bi bi-instagram"></i></a>
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-        <button id="dark-mode-toggle" onclick="myFunction()" class="btn btn-sm p-1"></button>
       </div>
     </div>
   </section><!-- End Top Bar-->
