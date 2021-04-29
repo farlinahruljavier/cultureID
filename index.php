@@ -122,7 +122,7 @@
 
     <div class="hero-slider swiper-container">
       <div class="swiper-wrapper">
-        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/1.jpg');"></div>
+        <div class="swiper-slide" style="background-image: url('https://konsultanku.co.id/assets/images/e8acdc33ba10ab40cde1c7acfe3b8416.jpg');"></div>
         <div class="swiper-slide" style="background-image: url('https://serpongupdate.com/wp-content/uploads/2019/10/baju.jpg');"></div>
         <div class="swiper-slide" style="background-image: url('https://www.justdalal.com/wp-content/uploads/2017/12/madrid-thrift-guide-justdalal-21.jpg');"></div>
         <div class="swiper-slide" style="background-image: url('https://www.dir.web.id/wp-content/uploads/2017/01/banner-roughneck.jpg');"></div>
@@ -235,7 +235,7 @@
             </div>
             <div class="swiper-slide">
               <a href="https://www.instagram.com/inspired27/?hl=en">
-                <img src="https://lh3.googleusercontent.com/proxy/-fMxr3sRYf4qBJdx3FpHkawey6Rq2gwfEIp-cmIJdIgLKe6_CopMoKcTcjyz9VC0rBCnD4s6AlH5zhGikS1JaYPqc6HqBvg2PNQ_eg-Xe7K_bJciwzsrQyaFpNscp9nBADB-H9U3eh_Idy7sr3xStrHFcEDjuLeC9Q" alt="">
+                <img src="https://images.tokopedia.net/img/cache/215-square/GAnVPX/2020/10/27/d614916d-54a0-4c5f-8620-e5801e19efa6.jpg" alt="">
               </a>
             </div>
             <div class="swiper-slide">
@@ -390,7 +390,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>Testimonials</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <p></p>
         </div>
 
         <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
@@ -516,7 +516,7 @@
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href="assets/img/team/lino.jpg"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/lino_dika/?hl=en"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
