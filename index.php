@@ -51,6 +51,7 @@
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
         <button onclick="myFunction()" class="btn btn-light btn-sm">LightMode</button>
         </div>
+        <!-- LOGIC DARKMODE -->
         <script>
         (function() {
             let onpageLoad = localStorage.getItem("theme") || "";
@@ -78,6 +79,7 @@
             document.getElementById("theme").textContent = localStorage.getItem("theme");
         }
     </script> 
+    <!-- END LOGIC DARKMODE -->
     </div>
   </section><!-- End Top Bar-->
 
