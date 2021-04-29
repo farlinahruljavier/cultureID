@@ -11,10 +11,14 @@
 :root{
   --primary-color: #ffffff;
   --secondary-color: #000000;
+  --third-color: #0c2e8a;
+  --hero-color: rgba(255, 255, 255, 0.7);
 }
 .dark-mode{
  --primary-color: #151515;
   --secondary-color: #ffffff;
+  --third-color: #51d8af;
+  --hero-color: rgba(0, 0, 0, 0.7);
 }
 
 body {
@@ -145,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header #logo h1 a {
-  color: #0c2e8a;
+  color: var(--third-color);
 }
 
 #header #logo h1 a span {
@@ -289,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #0c2e8a;
+  color: var(--third-color);
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -344,7 +348,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #0c2e8a;
+  color: var(--third-color);
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
@@ -414,7 +418,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-content h2 {
-  color: #0c2e8a;
+  color: var(--third-color);
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
@@ -445,13 +449,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-content .btn-get-started {
-  background: #0c2e8a;
-  border: 2px solid #0c2e8a;
+  background: var(--third-color);
+  border: 2px solid var(--third-color);
 }
 
 #hero .hero-content .btn-get-started:hover {
   background: none;
-  color: #0c2e8a;
+  color: var(--third-color);
 }
 
 #hero .hero-content .btn-projects {
@@ -471,7 +475,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .hero-slider::before {
   content: '';
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: var(--hero-color);
   position: absolute;
   height: 100%;
   width: 100%;
@@ -505,7 +509,7 @@ section {
 
 .section-header h2 {
   font-size: 32px;
-  color: #0c2e8a;
+  color: var(--third-color);
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
@@ -607,7 +611,7 @@ section {
 }
 
 #about .content h2 {
-  color: #0c2e8a;
+  color: var(--third-color);
   font-weight: 700;
   font-size: 36px;
   font-family: "Raleway", sans-serif;
@@ -678,7 +682,7 @@ section {
 }
 
 #services .box .icon i:before {
-  background: #0c2e8a;
+  background: var(--third-color);
   background: linear-gradient(45deg, #50d8af 0%, #a3ebd5 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
@@ -1273,5 +1277,5 @@ section {
 }
 
 #footer .credits a {
-  color: #0c2e8a;
+  color: var(--third-color);
 }

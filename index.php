@@ -200,12 +200,8 @@
     <section id="clients">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-<<<<<<< Updated upstream
           <h2>Colaborations</h2>
           <p>brand kami telah banyak melakukan kolaborasi dengan brand-brand ternama di indonesia. itulah yang memebuat brand kami semakin besar, terimakasih kepada mereka semua : </p>
-=======
-          <h2>Clients</h2>
->>>>>>> Stashed changes
         </div>
 
         <div class="clients-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
