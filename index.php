@@ -45,8 +45,6 @@
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
         <button id="dark-mode-toggle" onclick="myFunction()" class="btn btn-sm p-1"></button>
       </div>
-      <!-- LOGIC DARKMODE -->
-      <!-- END LOGIC DARKMODE -->
     </div>
   </section><!-- End Top Bar-->
 
